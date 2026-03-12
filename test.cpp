@@ -1,8 +1,14 @@
 #include <stdio.h>
 
+int suma(a,b){
+int res= a+b;
+  printf("%d", res);
+  return res;
+}
+
 int main(){
-int z=13;
-printf("%d",z);
+suma(6, 13);
 return 0;
 }
+
 
