@@ -7,8 +7,9 @@ int res= a+b;
 }
 
 int main(){
-suma(6, 13);
+suma(6, 7);
 return 0;
 }
+
 
 
