@@ -1,11 +1,8 @@
 #include <stdio.h>
 
 int main(){
-int x=6;
-int y=7;
-
-int z= x+y;
+int z=13;
 printf("%d",z);
-
-return z;
+return 0;
 }
+
